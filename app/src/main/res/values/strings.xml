@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">HugLocation</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="login_error_message">ล็อคอินไม่ถูกต้อง</string>
+    <string name="register_error_message">สมัครสมาชิกไม่สำเร็จ</string>
+    <string name="register_success">สมัครสมาชิกสำเร็จ</string>
+    <string name="register_password_error">รหัสผ่านไม่ตรงกัน</string>
+
+    <string name="hint_firstname">ชื่อ</string>
+    <string name="hint_lastname">นามสกุล</string>
+    <string name="hint_phone">เบอร์โทรศัพท์มือถือ</string>
+    <string name="hint_password">รหัสผ่าน</string>
+    <string name="hint_confirm_password">ยืนยันรหัสผ่าน</string>
+    <string name="hint_parent_firstname">ชื่อผู้ปกครอง</string>
+    <string name="hint_parent_lastname">นามสกุลผู้ปกครอง</string>
+    <string name="hint_parent_phone">เบอร์โทรศัพท์มือถือผู้ปกครอง</string>
+    <string name="hint_parent_email">อีเมลผู้ปกครอง</string>
+
+    <string name="text_login">เข้าสู่ระบบ</string>
+    <string name="text_register">สมัครสมาชิก</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member? Login</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!--map-->
+    <string name="google_map_API_key">AIzaSyBXaY5UgXcWxZneXpONM2Rl6IKQJniurtA</string>
+</resources>
